@@ -10,6 +10,14 @@
       "StackName": "amplify-touristreact-prod-144746",
       "StackId": "arn:aws:cloudformation:eu-north-1:708016832646:stack/amplify-touristreact-prod-144746/df9f58a0-6f46-11ee-a446-0a69799be63a",
       "AmplifyAppId": "d1qd6qwermj7jm"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1qd6qwermj7jm",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
