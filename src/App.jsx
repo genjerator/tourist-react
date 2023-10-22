@@ -43,7 +43,6 @@ function App() {
                         <Link to="/login" className="text-white hover:text-gray-300 mr-4">Login</Link>
                         <Link to="/register" className="text-white hover:text-gray-300 mr-4">Register</Link>
                         <button type="button" onClick={handleLogout} className="text-white hover:text-gray-300 mr-4">Logout</button>
-                        <p>asasas{import.meta.env.TEST}</p>
                     </div>
                 </div>
             </nav>
